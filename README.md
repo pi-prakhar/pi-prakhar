@@ -12,10 +12,11 @@ Welcome to my GitHub profile! I'm a passionate backend developer with a knack fo
 - **DevOps**: CI/CD pipelines, monitoring with Prometheus, Grafana  
 
 ## 📫 How to Reach Me
-- Email: pi.prakhar.dev@example.com
-- LinkedIn: [Prakhar's LinkedIn](https://www.linkedin.com/in/pi-prakhar)
+- Email: pi.prakhar.dev@gmail.com  
+- LinkedIn: [Prakhar's LinkedIn](https://www.linkedin.com/in/pi-prakhar)  
+- Twitter: [@prakhar_dev]((https://x.com/pi_prakhar))  
 
-## 📈 GitHub Stats
-![Prakhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=pi-prakhar&show_icons=true&theme=radical)
+## 💻 Languages Used  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pi-prakhar&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 Feel free to browse through my repositories and reach out if you have any questions or collaboration ideas. Let's build something amazing together!
