@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate backend developer with a knack fo
 - Deepening my understanding of **Kubernetes**, focusing on deployment strategies, scaling, and observability.  
 
 ## 💬 Ask Me About
-- **Backend Development**: Go (microservices, concurrency, gRPC, GraphQL), Python  
+- **Backend Development**: Go (microservices, concurrency, gRPC, GraphQL), Python, JS
 - **Cloud and Infrastructure**: Kubernetes, GCP, Docker, Helm  
 - **DevOps**: CI/CD pipelines, monitoring with Prometheus, Grafana  
 
